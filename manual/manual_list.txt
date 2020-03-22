@@ -1,0 +1,16 @@
+grün
+gelb
+blau
+rot
+braun
+schwarz
+grau
+weiß
+lila
+rosa
+violett
+sepia
+türkis
+silber
+gold
+pink
